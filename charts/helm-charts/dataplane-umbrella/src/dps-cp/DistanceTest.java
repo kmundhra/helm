@@ -5,4 +5,5 @@ public class DistanceTest {
     public void oneKmIsThousandMeters() {
         Assert.assertEquals(new Distance(1000,Distance.Unit.METRIC),new Distance(1,Distance.Unit.KM));
     }
+    //second commit
 }

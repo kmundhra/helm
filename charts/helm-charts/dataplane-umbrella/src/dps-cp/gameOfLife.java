@@ -97,6 +97,6 @@ public class gameOfLife {
             }
             System.out.println();
         }
-
+//second commit
     }
 }
